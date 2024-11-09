@@ -5,7 +5,7 @@
 
 ## Context and Problem Statement
 
-Para manejar de manera óptima la información de los modulos críticos (Clientes y Pedidos), se busca seleccionar el tipo de base de datos y estructura de almacenamiento de datos más adecuada para gestionar los datos de los diferentes microservicios en el sistema. Tomando esto en cuenta, se ha decidido que la mejor opción es una Base de datos SQL para cada microservicio, con diferentes esquemas (Clientes, Pedidos).
+Para manejar de manera óptima la información de los modulos críticos (Clientes y Pedidos), se busca seleccionar el tipo de base de datos y estructura de almacenamiento de datos más adecuada para gestionar los datos de los diferentes microservicios en el sistema. Tomando esto en cuenta, se ha decidido que la mejor opción es una Base de datos SQL para cada microservicio con diferentes esquemas (Clientes, Pedidos).
 
 ## Decision Drivers
 
@@ -19,7 +19,7 @@ Para manejar de manera óptima la información de los modulos críticos (Cliente
 
 ## Decision Outcome
 
-Chosen option: ""
+Chosen option: "Bases de datos SQL independientes" para cada microservicio con diferentes esquemas (Clientes, Pedidos).
 
 ### Positive Consequences
 
