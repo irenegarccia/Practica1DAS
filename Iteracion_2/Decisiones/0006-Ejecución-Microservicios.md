@@ -1,7 +1,7 @@
 # Ejecución microservicios
 
-* Status: proposed
-* Date: 2024-11-06
+* Status: accepted
+* Date: 2024-11-10
 
 ## Context and Problem Statement
 
