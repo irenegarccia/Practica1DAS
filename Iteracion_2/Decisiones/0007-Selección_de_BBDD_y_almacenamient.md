@@ -1,7 +1,7 @@
 # Selección-de-BBDD-y-almacenamiento-de-datos
 
 * Status: accepted
-* Date: 2024-11-06
+* Date: 2024-11-10
 
 ## Context and Problem Statement
 
