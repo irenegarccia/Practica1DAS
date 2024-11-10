@@ -1,7 +1,7 @@
 # Operativa de pagos
 
-* Status: proposed
-* Date: 2024-11-06
+* Status: accepted
+* Date: 2024-11-10
 
 ## Context and Problem Statement
 
@@ -20,7 +20,7 @@ Chosen option: "Implementar un módulo de pago seguro y compatible con otros cli
 
 ### Positive Consequences
 
-* Bueno, porqure mejora la seguridad de los pagos al almacenar los datos de pago externamente y cumplir con los estándares de la industria.
+* Bueno, porque mejora la seguridad de los pagos al almacenar los datos de pago externamente y cumplir con los estándares de la industria.
 * Bueno, porque mejora la escalabilidad, permitiendo una mayor flexibilidad para el crecimiento en el número de pedidos y clientes.
 * Bueno, porque reduce la carga de mantenimiento de seguridad en el sistema, ya que las actualizaciones y mejoras de seguridad son gestionadas directamente por el proveedor de pagos.
 * Bueno, porque ofrece un flujo de pago optimizado para diferentes dispositivos, mejorando la experiencia del cliente.
