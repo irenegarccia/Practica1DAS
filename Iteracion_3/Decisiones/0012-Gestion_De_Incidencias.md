@@ -1,6 +1,6 @@
 # Gestión de Incidencias
 
-* Status: proposed
+* Status: accepted
 * Date: 2024-11-12
 
 ## Context and Problem Statement
