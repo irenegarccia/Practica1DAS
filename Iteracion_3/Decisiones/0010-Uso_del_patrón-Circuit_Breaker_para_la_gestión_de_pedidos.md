@@ -1,6 +1,6 @@
 # Uso del patrón Circuit Breaker para la gestión de pedidos
 
-* Status: proposed
+* Status: accepted
 * Date: 2024-11-12
 
 ## Context and Problem Statement
