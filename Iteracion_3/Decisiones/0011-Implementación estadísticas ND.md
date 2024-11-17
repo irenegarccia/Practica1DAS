@@ -1,7 +1,7 @@
 # Implementación del módulo de estadísticas
 
-* Status: accepted.
-* Date: 2024-11-13.
+* Status: accepted
+* Date: 2024-11-13
 
 ## Context and Problem Statement
 
