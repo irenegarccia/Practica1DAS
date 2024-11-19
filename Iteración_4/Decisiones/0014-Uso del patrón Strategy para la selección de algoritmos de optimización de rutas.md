@@ -1,6 +1,6 @@
 # Uso del patrón Strategy para la selección de algoritmos de optimización de rutas
 
-* Status: proposed
+* Status: accepted
 * Date: 2024-11-19
 
 ## Context and Problem Statement
